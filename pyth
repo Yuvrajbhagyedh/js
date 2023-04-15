@@ -1,0 +1,12 @@
+print("Enter First Number: ")
+num = int(input())
+print("Enter Second Number: ")
+num1 = int(input())
+a= num+num1
+print("\nAddition Result = ", a)
+a = num-num1
+print("Subtraction Result = ", a)
+a = num*num1
+print("Multiplication Result = ", a)
+a = num/num1
+print("Division Result = ", a)
